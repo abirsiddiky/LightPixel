@@ -42,7 +42,7 @@
 
 1. Log in to your WordPress admin panel
 2. Navigate to **Plugins → Add New**
-3. Search for **"LightPixel Image Optimizer"**
+3. Search for **"LightPixel"**
 4. Click **Install Now** and then **Activate**
 5. Configure settings at **LightPixel → Settings**
 
@@ -242,7 +242,7 @@ Yes! Compatible with all themes and builders.
 
 ## 🤝 Support
 
-- 📧 **Email:** support@abirsiddiky.com
+- 📧 **Email:** mail@abirsiddiky.com
 - 🐛 **Issues:** [GitHub Issues](https://github.com/abirsiddiky/lightpixel-image-optimizer/issues)
 - 💬 **Support:** [WordPress.org](https://wordpress.org/support/plugin/lightpixel-image-optimizer/)
 
@@ -254,7 +254,6 @@ Yes! Compatible with all themes and builders.
 - 📝 Write a review on WordPress.org
 - 🐦 Share on social media
 - 🤝 Contribute code
-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/abirsiddiky)
 
 ---
 
@@ -272,7 +271,7 @@ See [LICENSE](LICENSE) file for details.
 
 - Website: [abirsiddiky.com](https://abirsiddiky.com/)
 - GitHub: [@abirsiddiky](https://github.com/abirsiddiky)
-- Email: support@abirsiddiky.com
+- Email: mail@abirsiddiky.com
 
 ---
 
