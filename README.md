@@ -67,7 +67,7 @@ A powerful WordPress plugin that automatically converts your images to modern, o
 5. Configure settings at **LightPixel** → **Settings**
 
 ### Manual Installation
-1. Download the latest release from [GitHub Releases](https://github.com/abirsiddiky/lightpixel-image-optimizer/releases)
+1. Download the latest release from [GitHub Releases](https://github.com/abirsiddiky/LightPixel/releases)
 2. Upload the ZIP file via **Plugins** → **Add New** → **Upload Plugin**
 3. Activate the plugin
 4. Configure settings at **LightPixel** → **Settings**
