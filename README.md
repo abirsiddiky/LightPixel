@@ -75,8 +75,8 @@ A powerful WordPress plugin that automatically converts your images to modern, o
 ### From GitHub
 ```bash
 cd wp-content/plugins/
-git clone https://github.com/abirsiddiky/lightpixel-image-optimizer.git
-cd lightpixel-image-optimizer
+git clone https://github.com/abirsiddiky/LightPixel.git
+cd LightPixel
 ```
 
 Then activate via WordPress admin panel.
