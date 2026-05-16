@@ -1,6 +1,6 @@
 # 💡 LightPixel - Image Optimizer
 
-![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
+
 ![WordPress](https://img.shields.io/badge/wordpress-5.0+-brightgreen.svg)
 ![PHP](https://img.shields.io/badge/php-7.4+-purple.svg)
 ![License](https://img.shields.io/badge/license-GPL--2.0-red.svg)
